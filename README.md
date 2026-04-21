@@ -3,6 +3,7 @@ AI-powered microservice for audit analysis and recommendations using Flask and R
 
 # External Audit Coordinator — AI Service
 
+
 ## 📌 Overview
 This project is part of the External Audit Coordinator system. The AI service is responsible for analyzing audit-related inputs and generating structured insights and recommendations using REST APIs.
 
