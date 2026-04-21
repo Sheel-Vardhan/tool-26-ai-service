@@ -32,24 +32,7 @@ python app.py
 
 ---
 
-# 🎯 Tip (Important)
 
-- Keep description **clear + technical**
-- Avoid unnecessary words
-- Show **progress + structure**
-
----
-
-# 👉 If You Want
-
-I can also:
-- Improve it for **ATS / recruiter visibility**
-- Add **badges (professional look)**
-- Customize for **LinkedIn portfolio**
-
----
-
-# 👉 Next
 
 Tell me once your repo is visible on GitHub —  
 then we move to **Day 2 (real AI integration)** 🚀
